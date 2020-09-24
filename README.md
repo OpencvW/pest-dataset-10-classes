@@ -1,6 +1,5 @@
 # pest-dataset(10 classes)
 
-pest dataset()
 
 The link for datset https://sejonguniversity-my.sharepoint.com/:f:/g/personal/hanxiang_sju_ac_kr/EvrsNaKE_DZBgcHNG7fbQWgB0432dI0B7YfzzDUgEWEKCw
 
