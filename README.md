@@ -1,10 +1,12 @@
-# pest-dataset-10-classes-
-pest dataset(10 classes)
+# pest-dataset(10 classes)
+
+pest dataset()
 
 The link for datset https://sejonguniversity-my.sharepoint.com/:f:/g/personal/hanxiang_sju_ac_kr/EvrsNaKE_DZBgcHNG7fbQWgB0432dI0B7YfzzDUgEWEKCw
 
 
 If you use this dataset in your research, please cite this paper, thanks!
+
 
 
 @article{li2020crop,
